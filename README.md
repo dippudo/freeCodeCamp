@@ -1,4 +1,4 @@
-# freeCodeCamp
+# Programs from freeCodeCamp courses
 A repository for all my personal code and notes made from freeCodeCamp courses.
 
 This repository contains programs mainly coded in Python.
